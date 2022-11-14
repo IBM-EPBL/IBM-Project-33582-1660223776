@@ -1,0 +1,46 @@
+
+<!DOCTYPE>  
+<html> 
+<head>
+    <title>Ultimate Frisbee</title>
+    <link rel="stylesheet" type="text/css" href="D:\\Learning\\My_First_Website\css\\hw1.css" />
+
+    </head>
+<body>
+    <header>
+        <h1 style="color: red">Ultimate Frisbee</h1>
+   <ul>
+ <li class="active"><a href="#home">Home</a></li>
+ <li><a href="#news">News</a></li>
+ <li><a href="#contact">Contact</a></li>
+ <li><a href="#about">About</a></li>
+</ul>
+ 
+    </header>
+      
+<section>
+ <h2 class="tr"> Inventing the Ultimate Game</h2>
+
+<p>Ultimate Frisbee was the invention of Columbia High School student Joel Silver (who went on to produce several action movies). At a student council meeting, Silver jokingly suggested that the school form a committee to work on adding Frisbee to the school's curriculum. The council called his bluff. His friend Buzzy Hellring drew up the first couple editions of rules. Silver came up with - and copyrighted - the name Ultimate Frisbee.
+The first game took place at the high school in 1968. It was the student council vs. the school newspaper staff (who won). The first game between two schools took place in 1970.
+High school students took Ultimate Frisbee with them to college and formed collegiate leagues. The first intercollegiate game (between Rutgers and Princeton) took place in 1972. The first National Collegiate Championships took place in 1975. In just seven short years, the new sport was firmly established. Now, you can win a medal in Ultimate Frisbee at the World Games.
+</p>
+    </section>  
+    <section>
+ <h2> Inventing the Ultimate Game-new</h2>
+
+<p>Ultimate Frisbee was the invention of Columbia High School student Joel Silver (who went on to produce several action movies). At a student council meeting, Silver jokingly suggested that the school form a committee to work on adding Frisbee to the school's curriculum. The council called his bluff. His friend Buzzy Hellring drew up the first couple editions of rules. Silver came up with - and copyrighted - the name Ultimate Frisbee.
+The first game took place at the high school in 1968. It was the student council vs. the school newspaper staff (who won). The first game between two schools took place in 1970.
+High school students took Ultimate Frisbee with them to college and formed collegiate leagues. The first intercollegiate game (between Rutgers and Princeton) took place in 1972. The first National Collegiate Championships took place in 1975. In just seven short years, the new sport was firmly established. Now, you can win a medal in Ultimate Frisbee at the World Games.
+</p>
+    </section> 
+    <table>  
+<tr><th>First_Name</th><th>Last_Name</th><th>Marks</th></tr>  
+<tr><td>Sonoo</td><td>Jaiswal</td><td>60</td></tr>  
+<tr><td>James</td><td>William</td><td>80</td></tr>  
+<tr><td>Swati</td><td>Sironi</td><td>82</td></tr>  
+<tr><td>Chetna</td><td>Singh</td><td>72</td></tr>  
+</table>  
+</body>  
+</html>
+
